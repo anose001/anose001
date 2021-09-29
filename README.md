@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anose001
 - 👀 I’m interested in Quantum Physics, Machine Learning
-- 🌱 I’m currently studying Deep Learning concepts
-- 💞️ I’m looking to collaborate on research projects
+- 🌱 I’m currently 
+- 💞️ I’m looking
 - 📫 Send me a PM.
 
 <!---
