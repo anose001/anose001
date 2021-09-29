@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anose001
+- 👋 Hi there
 - 👀 I’m interested in Quantum Physics, Machine Learning
 - 🌱 I’m currently 
 - 💞️ I’m looking
