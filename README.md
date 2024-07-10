@@ -1,5 +1,5 @@
 - 👋 Hi there
-- 👀 I’m interested in Quantum Physics, Machine Learning
+- 👀 I’m interested in 
 - 🌱 I’m currently 
 - 💞️ I’m looking
 - 📫 Send me a PM.
